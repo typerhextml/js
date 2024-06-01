@@ -1,0 +1,19 @@
+{
+  "name": "@typerhext/js",
+  "version": "0.0.1",
+  "description": "THML.js",
+  "main": "dist/thml.min.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "@typerhextml/js"
+  },
+  "keywords": [
+    "TyperHext",
+    "THML"
+  ],
+  "author": "Leonard Lesinski",
+  "license": "MIT"
+}
